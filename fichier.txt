@@ -1,0 +1,8 @@
+Player{id=1, username=sabrin, password=sabrin}
+Player{id=2, username=houssem, password=houssem}
+Player{id=21, username=user, password=user}
+Player{id=22, username=null, password=null}
+Player{id=23, username=null, password=null}
+Player{id=41, username=sabrine, password=sabrine}
+Player{id=3, username=ss, password=ss}
+Player{id=4, username=rrr, password=rrrr}
